@@ -1,0 +1,9 @@
+[2025-06-26 09:19:23] Name: tracy khumalo | Gender: female | Age: 21 | Unit: Metric (kg/m) | Weight: 64.00 | Height: 1.67 | BMI: 22.95 | Category: Normal weight
+[2025-06-26 10:48:14] Name: Gift Mlambo | Gender: male | Age: 28 | Unit: Imperial (lbs/in) | Weight: 250.00 | Height: 59.00 | BMI: 50.49 | Category: Obese
+[2025-06-26 10:56:35] Name: tracy khumalo | Gender: female | Age: 23 | Unit: Metric (kg/m) | Weight: 64.00 | Height: 1.67 | BMI: 22.95 | Category: Normal weight
+[2025-06-26 11:46:14] Name: trad hygy | Gender: female | Age: 21 | Unit: Metric (kg/m) | Weight: 64.00 | Height: 1.67 | BMI: 22.95 | Category: Normal weight
+[2025-06-26 12:01:52] Name: tracy nonyane | Gender: female | Age: 23 | Unit: Metric (kg/m) | Weight: 78.00 | Height: 1.75 | BMI: 25.47 | Category: Overweight
+[2025-06-26 12:07:51] Name: knjknj jnjinji | Gender: female | Age: 23 | Unit: Metric (kg/m) | Weight: 64.00 | Height: 1.67 | BMI: 22.95 | Category: Normal weight
+[2025-06-26 12:10:48] Name: KARABO MAKHUKHO | Gender: Male | Age: 23 | Unit: Metric (kg/m) | Weight: 165.00 | Height: 2.00 | BMI: 41.25 | Category: Obese
+[2025-06-26 12:12:13] Name: KATA MAK | Gender: Male | Age: 23 | Unit: Metric (kg/m) | Weight: 165.00 | Height: 2.00 | BMI: 41.25 | Category: Obese
+[2025-06-26 12:15:00] Name: GTFYGY GFF | Gender: M | Age: 25 | Unit: Metric (kg/m) | Weight: 64.00 | Height: 1.60 | BMI: 25.00 | Category: Normal weight
